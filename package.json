@@ -10,7 +10,7 @@
     "canvas",
     "blob"
   ],
-  "repository": "nodeca/image-blob-reduce",
+  "repository": "wanghy0113/typed-image-blob-reduce",
   "license": "MIT",
   "files": [
     "index.js",
